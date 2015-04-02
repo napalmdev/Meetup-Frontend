@@ -1,0 +1,97 @@
+.center-block{
+	text-align: center;
+}
+.center-block img{
+	float: none !important; 
+}
+
+.inverse{
+	color:#222 !important;
+}
+
+.reveal .slides section img{
+	border:none;
+	background: none;
+	box-shadow: none;
+	display: inline-block;
+	float: left;
+}
+
+
+section p.box-comment{
+	background: rgba(0, 0, 0, .3);
+}
+
+
+
+h1,h2.titulo{
+	font-size: 2.5em;
+	color:#fff !important;
+	text-shadow: 0 2px 2px #000 !important;
+}
+
+
+.subtitulo{
+	color:#f0f0f0 !important;
+	text-shadow: 0 2px 2px #000 !important;
+}
+
+.container img{
+	border:0;
+	display:inline-block;
+}
+
+
+
+.middle-block{
+	width: 700px;
+	padding:10px !important;
+	margin: 0 auto !important;
+	background: rgba(0,100,80,.8);
+	border-radius: 10px;
+}
+
+
+.middle-block ul{
+
+}
+.middle-block ul li{
+	
+	padding: 10px;
+	list-style: square;
+}
+
+
+
+.small-block{
+	width: 450px;
+	padding:10px !important;
+	margin: 0 auto !important;
+	background: rgba(150,50,0,.8);
+	border-radius: 10px;
+}
+
+
+div.left-block{
+	width:960px;
+	float: left;
+	margin-left:0;
+	background: rgba(0, 100, 100, .7);
+	padding:10px;
+}
+
+
+.slides section.sass-section{
+}
+
+.slides section.sass-section h2, .slides section.sass-section h3{
+	color:#FAC315;
+}
+
+.slides section.sass-section h2 ul{
+	list-style: square;
+}
+
+img.rounded{
+	border-radius: 60%;
+}

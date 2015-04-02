@@ -1,0 +1,10 @@
+$font-titulo: Arial, Helvetica, "Sans-serif";
+$font-subtitulo: Verdana, Tahoma, Helvetica;
+
+h1{
+	font-family:$font-titulo;
+}
+
+h2,h3,h4{
+	font-family:$font-subtitulo;
+}
